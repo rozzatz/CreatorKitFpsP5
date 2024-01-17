@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ba22a2ff9c16340418377822c3e99377
+  productGUID: 6bb846fe021fc5e4cabb66373c4ed3eb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FPSCreatorKitP5Escobedo
+  productName: FPSCREATORKITP5Escobedo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -862,14 +862,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FPSCreatorKitP5Escobedo
+  metroPackageName: FPSCREATORKITP5Escobedo
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FPSCreatorKitP5Escobedo
+  metroApplicationDescription: FPSCREATORKITP5Escobedo
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -939,10 +939,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 54ec2d8e-ec44-4553-935e-55492ec82514
+  cloudProjectId: c2858e2a-a68a-42f8-aa1b-94af71b41c0b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FPSCreatorKitP5Escobedo
+  projectName: FPSCREATORKITP5Escobedo
   organizationId: rozzatz
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
